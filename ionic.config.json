@@ -1,0 +1,8 @@
+{
+  "name": "spottedApp",
+  "app_id": "f0a49794",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
